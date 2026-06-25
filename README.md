@@ -1,4 +1,4 @@
-# 🎓 Learning Style Prediction System
+## 🎓 Learning Style Prediction System
 
 > A Machine Learning system for predicting student learning styles based on the VARK framework.
 
@@ -99,3 +99,4 @@ The project helps educators and learners understand individual learning preferen
 
 ## 📸 Preview
 
+https://github.com/user-attachments/assets/76f48812-6d5d-49e7-abd9-8cc97c8babb2
